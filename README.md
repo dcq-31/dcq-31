@@ -1,7 +1,6 @@
-<h2 align="center">👋 Hi there! I'm Darián</h1>
+<h3>👋 Hi there! I'm Darián</h3>
 
-I'm an automatic engineering student from Cuba, who is passionate about web development and artificial intelligence. As an avid learner and problem solver, I enjoy tackling new challenges and improving my skills in these areas. I am a motivated and curious individual who is always looking for opportunities to learn and grow.</h3>
-- :sunglasses: I’m a competitive programmer.
-- 🌱 I’m currently learning Nextjs, Express and Django.
+I'm an automatic engineering student from Central University "Marta Abreu" of Las Villas, who is passionate about problem solving and web development.
+- ⭐ I’m a competitive programmer and frontend developer.
 - 💬 Ask me about: Vue, Typescript and Tailwindcss.
 - 📫 How to reach me dariancapoteq@gmail.com
