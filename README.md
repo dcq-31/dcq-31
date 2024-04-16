@@ -2,7 +2,7 @@
 
 🌟 I'm Darián Capote Quintana, a Frontend Developer and Automation Student. I'm captivated by technology's boundless potential. My mission :dart: is to perpetually evolve, contribute, and leave a positive mark in software development and automation of things.
 
-#### About Me
+### About Me
 
 🎓 I'm a passionate student studying Automation Engineering, driven by curiosity and a love for technology.
 
@@ -16,10 +16,10 @@
 
 📚 I believe in the power of continuous learning and self-improvement. Constantly seeking to expand my skill set, I eagerly embrace new programming languages, tools, and best practices to stay at the forefront of innovation and drive meaningful change.
 
-#### Let's Connect!
+### Let's Connect!
 
 📫 Interested in collaborating on projects or discussing tech topics?, feel free to reach out to me via [Telegram](https://t.me/dcq31), [LinkedIn](https://www.linkedin.com/in/dari%C3%A1n-capote-quintana/), [Email](mailto:dariancapoteq@gmail.com). You can also explore my projects here on GitHub and drop me a message.
 
-#### Statistics
+### Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcq-31&size_weight=0.5&count_weight=0.5&layout=compact&title_color=42b883)](https://github.com/dcq-31)
