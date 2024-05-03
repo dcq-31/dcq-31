@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-🌟 I'm Darián Capote Quintana, a Frontend Developer and Automation Student. I'm captivated by technology's boundless potential. My mission :dart: is to perpetually evolve, contribute, and leave a positive mark in software development and automation of things.
+🌟 I'm Darián Capote Quintana, a Frontend Developer and Automation Student. My mission :dart: is to perpetually evolve, contribute, and leave a positive mark in software development and automation of things.
 
 ### About Me
 
@@ -8,17 +8,17 @@
 
 💻 As a frontend programmer, I specialize in crafting dynamic and user-friendly interfaces using technologies like Vue.js :green_heart: , Tailwind CSS, and Bootstrap. I'm committed to delivering engaging experiences that enhance user interactions and satisfaction.
 
-🐍 Junior Python programmer. Whether it's building web applications, automating tasks, or diving into data science.
+🐍 Junior Python programmer.
 
 🏆 With over four years of experience in competitive programming, I've sharpened my problem-solving skills and gained insights into algorithmic complexities. Noteworthy achievements include participating in the Iberoamerican Computer Science Competition 2020 and achieving the 7th position in the Caribbean Finals of the ICPC 2023.
 
-🤖 Currently, I'm venturing into the exciting world of machine learning as an apprentice. I'm eager to explore its applications, learn new methodologies, and contribute to innovative solutions that leverage the power of AI.
+🤖 Currently, I'm venturing into the exciting world of machine learning as an apprentice. 
 
-📚 I believe in the power of continuous learning and self-improvement. Constantly seeking to expand my skill set, I eagerly embrace new programming languages, tools, and best practices to stay at the forefront of innovation and drive meaningful change.
+📚 I believe in the power of continuous learning and self-improvement. 
 
 ### Let's Connect!
 
-📫 Interested in collaborating on projects or discussing tech topics?, feel free to reach out to me via [Telegram](https://t.me/dcq31), [LinkedIn](https://www.linkedin.com/in/dari%C3%A1n-capote-quintana/), [Email](mailto:dariancapoteq@gmail.com). You can also explore my projects here on GitHub and drop me a message.
+📫 Interested in collaborating on projects or discussing tech topics?, feel free to reach out to me via [Telegram](https://t.me/dcq31), [LinkedIn](https://www.linkedin.com/in/dari%C3%A1n-capote-quintana/), [Email](mailto:dariancapoteq@gmail.com). 
 
 ### Statistics
 
