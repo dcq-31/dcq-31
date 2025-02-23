@@ -1,24 +1,18 @@
 ### Hi there! 👋
 
-🌟 I'm Darián Capote Quintana, a Frontend Developer and Automation Student. My mission :dart: is to perpetually evolve, contribute, and leave a positive mark in software development and automation of things.
+🌟 I'm Darián Capote Quintana, A highly motivated Automation Engineering graduate who loves programming.
 
 ### About Me
 
-🎓 I'm a passionate student studying Automation Engineering, driven by curiosity and a love for technology.
+💻 Frontend developer specialized in crafting dynamic and user-friendly interfaces using technologies like **Vue.js** and **Tailwind CSS**.
 
-💻 As a frontend programmer, I specialize in crafting dynamic and user-friendly interfaces using technologies like Vue.js :green_heart: , Tailwind CSS, and Bootstrap. I'm committed to delivering engaging experiences that enhance user interactions and satisfaction.
+🏆 Competitive programmer with over four years of experience, I've sharpened my problem-solving skills and gained insights into algorithmic complexities.
 
-🐍 Junior Python programmer.
-
-🏆 With over four years of experience in competitive programming, I've sharpened my problem-solving skills and gained insights into algorithmic complexities. Noteworthy achievements include participating in the Iberoamerican Computer Science Competition 2020 and achieving the 7th position in the Caribbean Finals of the ICPC 2023.
-
-🤖 Currently, I'm venturing into the exciting world of machine learning as an apprentice. 
-
-📚 I believe in the power of continuous learning and self-improvement. 
+🐍 **Python programmer**, I leveraging Python for scripting and automation. Constantly exploring its versatility in real-world problem-solving.
 
 ### Let's Connect!
 
-📫 Interested in collaborating on projects or discussing tech topics?, feel free to reach out to me via [Telegram](https://t.me/dcq31), [LinkedIn](https://www.linkedin.com/in/dari%C3%A1n-capote-quintana/), [Email](mailto:dariancapoteq@gmail.com). 
+📫 Interested in collaborating on projects or discussing tech topics?, feel free to reach out to me via [Telegram](https://t.me/dcq31), [LinkedIn](https://www.linkedin.com/in/dari%C3%A1n-capote-quintana/), [Email](mailto:dariancapoteq@gmail.com).
 
 ### Statistics
 
