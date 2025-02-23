@@ -8,7 +8,7 @@
 
 🏆 Competitive programmer with over four years of experience, I've sharpened my problem-solving skills and gained insights into algorithmic complexities.
 
-🐍 Python programmer focuses on automating things.. Constantly exploring its versatility in real-world problem-solving.
+🐍 Python programmer focuses on automating things. Constantly exploring its versatility in real-world problem-solving.
 
 ### Let's Connect!
 
