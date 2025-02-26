@@ -4,22 +4,23 @@
 
 ### About Me
 
-👨‍💻 **Frontend Developer** passionate about building efficient, scalable, and visually appealing web applications. I specialize in crafting dynamic and user-friendly interfaces.
+👨‍💻 **Full Stack Web Developer** passionate about crafting scalable, efficient, and user-friendly web applications with a strong emphasis on performance and maintainability.
 
-⚙️ **Automatic Engineer** with a foundation in Automatic Control Systems, Signal Processing, and Embedded Systems.
+⚙️ **Automatic Engineer** with a foundation in automatic control systems, signal processing, and embedded systems.
 
-🏆 **Competitive Programmer** with four years of experience, sharpening my problem-solving skills through algorithmic challenges and participating in competitions like the ICPC Caribbean Finals and the Iberoamerican Computer Science Competition.
+🏆 **Competitive Programmer** with four years of experience, sharpening my problem-solving skills through algorithmic challenges and participating in many competitions.
 
 🐍 **Python Programmer** focused on automation, optimization workflows, process data, and develop scalable solutions.
 
 ### 🛠 Tech Stack & Skills
 
-- **Frontend:** HTML, CSS, Javascript, Typescript, Vue.js, Tailwind CSS, Bootstrap.
-- **Automation:** Python, MATLAB, Bash Scripting.
+- **Full Stack Development:** Typescript, Vue.js, Tailwind CSS, Bootstrap, PHP, Laravel.
+- **Automation:** Python, MATLAB, Arduino, Bash Scripting.
 - **Competitive Programming**: C++, Data, Structures, Algorithms.
 
 ### 🎯 Interests
 
+- **Web Development** – Passionate about building applications using modern frameworks and best practices.
 - **Machine Learning & AI** – Currently exploring its theory and applications.
 - **Automation of Things** – Enthusiastic about IoT, process automation, and AI-driven automation solutions.
 - **Competitive Programming** – Always up for an algorithmic challenge.
