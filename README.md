@@ -1,12 +1,12 @@
 ### Hi there! 👋
 
-🌟 I'm Darián Capote Quintana, A highly motivated automation engineering graduated who loves programming.
+I'm Darián Capote Quintana, A highly motivated and focus automation engineering graduated who loves programming.
 
 ### About Me
 
 👨‍💻 **Full Stack Web Developer** passionate about crafting scalable, efficient, and user-friendly web applications with a strong emphasis on performance and maintainability.
 
-⚙️ **Automatic Engineer** with a foundation in automatic control systems, signal processing, and embedded systems.
+⚙️ **Automatic Engineer** with a foundation in signal processing and embedded systems.
 
 🏆 **Competitive Programmer** with four years of experience, sharpening my problem-solving skills through algorithmic challenges and participating in many competitions.
 
@@ -14,17 +14,21 @@
 
 ### 🛠 Tech Stack & Skills
 
-- **Full Stack Development:** Typescript, Vue.js, Tailwind CSS, Bootstrap, PHP, Laravel.
-- **Automation:** Python, MATLAB, Arduino, Bash Scripting.
-- **Competitive Programming**: C++, Data, Structures, Algorithms.
+- **Full Stack Development** – Vue.js, NestJS, TypeScript.
+- **Automation** – Python, MATLAB, Arduino, Bash Scripting.
+- **Competitive Programming** – C++, Data Structures, Algorithms.
 
 ### 🎯 Interests
 
-- **Web Development** – Passionate about building applications using modern frameworks and best practices.
-- **Machine Learning & AI** – Currently exploring its theory and applications.
-- **Automation of Things** – Enthusiastic about IoT, process automation, and AI-driven automation solutions.
-- **Competitive Programming** – Always up for an algorithmic challenge.
-- **Open Source** – Contributing and learning from the community.
+- **Full-Stack Architecture** –  Designing and implementing end-to-end systems that are both robust and a delight to use.
+- **AI & Machine Learning** – Exploring the intersection of web development and AI, particularly in building intelligent applications and data-driven features.
+- **IoT & Embedded Systems** – Bridging software and hardware to create automated, smart systems.
+- **Open Source** – Actively engaging with the developer community to collaborate on meaningful projects and continuously learn.
+
+### 🌱 Currently Learning
+
+- Deepening my NestJS expertise by building robust REST APIs with advanced features.
+- Exploring the fundamentals and theory of AI.
 
 ### 📊 GitHub Stats
 
