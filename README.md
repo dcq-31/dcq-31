@@ -4,26 +4,26 @@ I'm Darián Capote Quintana, A highly motivated and focus automation engineering
 
 ### About Me
 
-👨‍💻 **Full Stack Web Developer** passionate about crafting scalable, efficient, and user-friendly web applications with a strong emphasis on performance and maintainability.
+👨‍💻 Full Stack Web Developer passionate about crafting scalable, efficient, and user-friendly web applications with a strong emphasis on performance and maintainability.
 
-⚙️ **Automatic Engineer** with a foundation in signal processing and embedded systems.
+⚙️ Automatic Engineer with a foundation in signal processing and embedded systems.
 
-🏆 **Competitive Programmer** with four years of experience, sharpening my problem-solving skills through algorithmic challenges and participating in many competitions.
+🏆 Competitive Programmer with four years of experience, sharpening my problem-solving skills through algorithmic challenges and participating in many competitions.
 
-🐍 **Python Programmer** focused on automation, optimization workflows, process data, and develop scalable solutions.
+🐍 Python Programmer focused on automation, optimization workflows, process data, and develop scalable solutions.
 
 ### 🛠 Tech Stack & Skills
 
-- **Full Stack Development** – Vue.js, NestJS, TypeScript.
-- **Automation** – Python, MATLAB, Arduino, Bash Scripting.
-- **Competitive Programming** – C++, Data Structures, Algorithms.
+- Full Stack Development – Vue.js, NestJS, TypeScript.
+- Automation – Python, MATLAB, Arduino, Bash Scripting.
+- Competitive Programming – C++, Data Structures, Algorithms.
 
 ### 🎯 Interests
 
-- **Full-Stack Architecture** –  Designing and implementing end-to-end systems that are both robust and a delight to use.
-- **AI & Machine Learning** – Exploring the intersection of web development and AI, particularly in building intelligent applications and data-driven features.
-- **IoT & Embedded Systems** – Bridging software and hardware to create automated, smart systems.
-- **Open Source** – Actively engaging with the developer community to collaborate on meaningful projects and continuously learn.
+- Designing and implementing end-to-end systems with full stack architecture that are both robust and a delight to use.
+- Exploring the intersection of web development and AI, particularly in building intelligent applications and data-driven features.
+- Bridging software and hardware to create automated, smart systems.
+- Actively engaging with the developer community to collaborate on meaningful projects and continuously learn.
 
 ### 🌱 Currently Learning
 
