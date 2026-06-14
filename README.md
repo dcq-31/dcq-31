@@ -1,4 +1,4 @@
-### Hi 👋, I'm Darián Capote Quintana
+## Hi 👋, I'm Darián Capote Quintana
 
 I'm an automation engineer and full stack web developer. I build web apps, compete in programming contests, and explore AI.
 
@@ -16,7 +16,7 @@ I'm an automation engineer and full stack web developer. I build web apps, compe
 
 ### Tech Stack & Skills
  
-- Web Development: React, Vue.js, Next.js, Nuxt, Node.js, NestJS, MySQL and PostgreSQL.
+- Web Development: React, Vue.js, Next.js, Nuxt, Astro, Node.js, NestJS, MySQL and PostgreSQL.
 - Automation: Python, C++, scripting and MATLAB. 
 - Competitive Programming: algorithms, structures and optimization.
 
