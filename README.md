@@ -9,15 +9,15 @@ I'm an automation engineer and full stack web developer. I build web apps, compe
 - Competitive Programmer with 5+ years of experience.
 
 ### I'm Interested In
- 
+
 - ML and AI.
 - AI integrations into real-world apps and workflows.
 - Software that empower scientists and researchers.
 
 ### Tech Stack & Skills
- 
+
 - Web Development: React, Vue.js, Next.js, Nuxt, Astro, Node.js, NestJS, FastAPI, MySQL and PostgreSQL.
-- Automation: Python, C++, scripting and MATLAB. 
+- Automation: Python, C++, scripting and MATLAB.
 - Competitive Programming: algorithms, structures and optimization.
 
 ### Currently
@@ -30,7 +30,7 @@ I'm an automation engineer and full stack web developer. I build web apps, compe
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dcq31)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dari%C3%A1n-capote-quintana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcq31)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dariancapoteq@gmail.com)
 
 </div>
