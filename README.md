@@ -16,9 +16,9 @@ I'm an automation engineer and full stack web developer. I build web apps, compe
 
 ### Tech Stack & Skills
 
-- Web Development: React, Vue.js, Next.js, Nuxt, Astro, Node.js, NestJS, FastAPI, MySQL and PostgreSQL.
+- Web Development: React, Vue.js, Next.js, Nuxt, Astro, Node.js, NestJS, FastAPI, Three.js, MySQL and PostgreSQL.
 - Automation: Python, C++, scripting and MATLAB.
-- Competitive Programming: algorithms, structures and optimization.
+- Competitive Programming: algorithms, data structures and optimization.
 
 ### Currently
 
